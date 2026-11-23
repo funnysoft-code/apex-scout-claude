@@ -1,0 +1,13 @@
+{
+  "name": "apex-scout",
+  "description": "Find track days in Europe: Listed Days at race Circuits, with organiser, price and a link to book on the organiser's own site.",
+  "version": "0.1.0",
+  "author": { "name": "Apex Scout", "url": "https://apexscout.app" },
+  "homepage": "https://apexscout.app/en/help/claude",
+  "repository": "https://github.com/funnysoft-code/apex-scout-claude",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://apexscout.app/en/privacy",
+  "mcpServers": {
+    "apex-scout": { "type": "http", "url": "https://apexscout.app/mcp" }
+  }
+}
